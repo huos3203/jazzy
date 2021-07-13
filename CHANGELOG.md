@@ -2,11 +2,12 @@
 
 ##### Breaking
 
-* None.
+* Require at least Ruby 2.6.3.  
 
 ##### Enhancements
 
-* None.
+* Support DocC-style autolinks and callouts in markdown.  
+  [John Fairhurst](https://github.com/johnfairh)
 
 ##### Bug Fixes
 
